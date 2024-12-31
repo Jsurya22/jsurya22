@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Azure**
 
-- 💬 Ask me about **Fullstack,React,Python</br>
+- 💬 Ask me about **Fullstack,React,Python,SQL</br>
 ✌️   Enjoy doing programming and sharing knowledge</br>
 ❤️   Love writing code and learning new features**
 
